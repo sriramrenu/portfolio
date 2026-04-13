@@ -106,7 +106,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-r from-accent to-primary opacity-0 group-hover:opacity-100 transition-opacity"></div>
           </Link>
           <a
-            href="/Sriram_Resume.pdf"
+            href="/Resume_Sriram.pdf"
             download
             className="px-8 py-4 rounded-lg border-2 border-primary/50 text-primary hover:bg-primary/10 font-bold text-lg transition-all transform hover:scale-105 flex items-center justify-center gap-2"
           >
